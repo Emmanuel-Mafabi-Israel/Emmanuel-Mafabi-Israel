@@ -31,9 +31,9 @@ Beyond my professional work, I dedicate my free time to personal projects, divin
 
 
 ## 🤝 Let's Connect!
-I'm always open to collaborating on exciting projects and discussing the latest advancements in technology. Feel free to reach out!
+I'm always open to collaborating on exciting projects and discussing the latest advancements in technology. Feel free to reach out! - My main account
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emmanuel-Mafabi-Israel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Israel-Mafabi-Emmanuel)
 
 
 
