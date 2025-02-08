@@ -1,5 +1,8 @@
 # Emmanuel Mafabi Israel 🧑🏾‍💻💫
 Software Engineer | Machine Learning Enthusiast | Lifelong Learner
+
+
+
 ## 🚀 About Me
 Driven by a passion for engineering and a desire to make the world a better place through code and creativity. I thrive on exploring the vast landscape of technology, from the intricacies of operating systems to the magic of machine learning.  I believe in the power of lifelong learning and am always eager to research, explore, and contribute to the open-source community.
 
@@ -14,7 +17,7 @@ Beyond my professional work, I dedicate my free time to personal projects, divin
 
 * **Front-End Development:** Sharpening my skills in React.js and related technologies, with a focus on creating responsive, accessible, and performant user interfaces.
 
-* **Back-End Development:** Enhancing my back-end skills with: Node.js, Python/Flask, Databases, focusing on building robust and scalable APIs.
+* **Back-End Development:** Enhancing my back-end skills with: Node.js, Python/Flask, Databases, focusing on building robust and scalable APIs. The goal? to build backends that are as elegant and efficient as the frontends they support.
 
   
 
@@ -32,4 +35,12 @@ I'm always open to collaborating on exciting projects and discussing the latest 
 
 
 
+
+##  ✨ Words to Live By
+*"Always About my Father's Business" - Mafabi*
+*"The best way to predict the future is to create it." - Peter Drucker*
 *"The only way to do great work is to love what you do." - Steve Jobs*
+
+
+
+Let's build something amazing together!
